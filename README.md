@@ -15,6 +15,7 @@ A curated list of resources for the Alloy programming framework. Feel free to co
 
 ## Development Tools
 - [**Foundry**](https://github.com/foundry-rs/foundry) - A robust, modular toolkit for Ethereum developers, designed in Rust.
+- [**Rbuilder**](https://github.com/flashbots/rbuilder) - Rbuilder is an advanced, high-speed block builder for Ethereum MEV-Boost,
 
 ## Libraries
 - [**AMMS-rs**](https://github.com/darkforestry/amms-rs) - A Rust library facilitating interaction with automated market makers on Ethereum-compatible chains.
