@@ -23,6 +23,7 @@ A curated list of resources for the Alloy programming framework. Feel free to co
 - [**Optimism Alloy Types**](https://github.com/alloy-rs/op-alloy) - Types specific to the Optimism alloy, enhancing compatibility and performance.
 - [**Alloy Core**](https://github.com/alloy-rs/core) - Core libraries for Ethereum, featuring high performance, rigorous testing, and comprehensive documentation.
 - [**Alloy ERC-20**](https://github.com/leruaa/alloy-erc20) - A library for interfacing with ERC-20 contracts using Alloy, implemented in Rust for efficient contract interaction.
+- [**ERC-3770**](https://github.com/Rjected/erc3770) - A library for the ERC-3770 standard, providing efficient and secure address handling in Ethereum.
 ## Network and Infrastructure
 - [**Alloy MEV**](https://github.com/leruaa/alloy-mev) - An Alloy-based transport layer for submitting transaction bundles via Flashbots.
 - [**Alphanet**](https://github.com/paradigmxyz/alphanet) - Reth AlphaNet, a testnet OP Stack-compatible rollup designed to test and explore cutting-edge Ethereum research.
